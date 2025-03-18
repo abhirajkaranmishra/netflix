@@ -12,4 +12,4 @@ const checkValidate = (email,password) => {
 
 };
 
-export default checkValidate
+export default checkValidate;
